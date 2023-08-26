@@ -1,1 +1,4 @@
 faker
+pandas
+requests
+csv
