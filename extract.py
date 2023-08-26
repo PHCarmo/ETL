@@ -18,7 +18,7 @@ class Extract:
         for ip in ips:
             if (user := self.get_weather_by_ip(ip)):
                 users.append(
-                    User(
+                    User(ip,
                         user["current"]["weather_descriptions"][0],
                         **user["current"],
                         **user["location"]

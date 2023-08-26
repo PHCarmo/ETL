@@ -1,5 +1,6 @@
 class User:
-    def __init__(self, *args, **kwargs):
+    def __init__(self, ip, *args, **kwargs):
+        self.ip = ip
         self.weather = args[0]
         self.temperature = kwargs.get('temperature')
         self.location = kwargs.get('name')
@@ -9,6 +10,14 @@ class User:
 
     def get_location(self):
         return self.location or self.region or self.country or "Not Found"
+
+    @property
+    def ip(self):
+        return self.__ip
+
+    @ip.setter
+    def ip(self, val):
+        self.__ip = val
 
     @property
     def weather(self):
