@@ -18,7 +18,7 @@ class Transform:
         params = {
             "key": self.ACCESS_KEY,
             "cx": self.CONTEXT,
-            "q": f"Things to do in a {user.get_weather()} day in {user.get_location()}",
+            "q": f"Things to do in a {user.weather} day in {user.get_location()}",
         }
         response = requests.get(
             f'{self.HOST}',

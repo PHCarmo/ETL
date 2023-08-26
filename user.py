@@ -10,11 +10,21 @@ class User:
     def get_location(self):
         return self.location or self.region or self.country or "Not Found"
 
-    def get_weather(self):
-        return self.weather or "Not Found"
+    @property
+    def weather(self):
+        return self.__weather
 
-    def get_temperature(self):
-        return self.temperature or "Not Found"
+    @weather.setter
+    def weather(self, val):
+        self.__weather = val
+
+    @property
+    def temperature(self):
+        return self.__temperature
+
+    @temperature.setter
+    def temperature(self, val):
+        self.__temperature = val
 
     @property
     def suggestions(self):
