@@ -5,6 +5,7 @@ class User:
         self.location = kwargs.get('name')
         self.region = kwargs.get('region')
         self.country = kwargs.get('country')
+        self.suggestions = None
 
     def get_location(self):
         return self.location or self.region or self.country or "Not Found"
@@ -14,3 +15,11 @@ class User:
 
     def get_temperature(self):
         return self.temperature or "Not Found"
+
+    @property
+    def suggestions(self):
+        return self.__suggestions
+
+    @suggestions.setter
+    def suggestions(self, val):
+        self.__suggestions = val
