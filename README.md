@@ -8,9 +8,11 @@ O projeto **ETL** é um exemplo de um processo de Extração, Transformação e 
 
 ## Funcionalidades
 
-- Extrair dados de uma API.
-- Transformar dados usando informações do Google.
-- Carregar os dados transformados em um arquivo csv.
+- Extract: baseado em um CSV de IPs públicos busca informações atuais sobre o clima na região do IP fornecido. (API usada: https://weatherstack.com/documentation)
+
+- Transform: realiza buscas personalizadas através do Google sobre o que fazer na localidade do IP baseando no clima apresentado no dia (API usada: https://developers.google.com/custom-search/v1/overview?hl=pt-br)
+
+- Load: Devolve as principais informações para um CSV final.
 
 ## Requisitos
 
@@ -36,5 +38,7 @@ O projeto **ETL** é um exemplo de um processo de Extração, Transformação e 
     ```bash
     python main.py
     ```
+
+4. Procure o arquivo "final_result.csv" dentro do subdiretório "data".
 
 Este projeto foi criado por PHCarmo em @2023.
