@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import requests
+from user import User
 
 class Extract:
     def __init__(self, file_name) -> None:
@@ -13,7 +14,17 @@ class Extract:
         return df['IP'].tolist()
 
     def get_users(self, ips):
-        return [user for ip in ips if (user := self.get_weather_by_ip(ip))]
+        users = []
+        for ip in ips:
+            if (user := self.get_weather_by_ip(ip)):
+                users.append(
+                    User(
+                        user["current"]["weather_descriptions"][0],
+                        **user["current"],
+                        **user["location"]
+                    )
+                )
+        return users
 
     def get_weather_by_ip(self, ip):
         params = {
