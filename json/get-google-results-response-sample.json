@@ -1,0 +1,446 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Things to do in a Partly cloudy day in San Jose",
+                "totalResults": "130000",
+                "searchTerms": "Things to do in a Partly cloudy day in San Jose",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "51275c3de2d644c29"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Things to do in a Partly cloudy day in San Jose",
+                "totalResults": "130000",
+                "searchTerms": "Things to do in a Partly cloudy day in San Jose",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "51275c3de2d644c29"
+            }
+        ]
+    },
+    "context": {
+        "title": "What do"
+    },
+    "searchInformation": {
+        "searchTime": 0.524055,
+        "formattedSearchTime": "0.52",
+        "totalResults": "130000",
+        "formattedTotalResults": "130,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best Things to Do near Berryessa, San Jose, CA - July 2023 ...",
+            "htmlTitle": "Top 10 Best <b>Things</b> to <b>Do</b> near Berryessa, <b>San Jose</b>, CA - July 2023 ...",
+            "link": "https://www.yelp.com/search?find_desc=Things+to+Do&find_loc=berryessa%2C+san+jose%2C+ca",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Things to Do in berryessa, san jose, ca - The Dragon Mountain Thien Long Son, Miniboss, California Extreme, Golfland, Hidden Lake Park.",
+            "htmlSnippet": "Reviews on <b>Things</b> to <b>Do</b> in berryessa, <b>san jose</b>, ca - The Dragon Mountain Thien Long Son, Miniboss, California Extreme, Golfland, Hidden Lake Park.",
+            "cacheId": "JdiB-H_8zOwJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Things...Do...san+jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=<b>Things</b>...<b>Do</b>...<b>san</b>+<b>jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Things+to+Do&find_loc=berryessa%2C+san+jose%2C+ca&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Best Things to Do near Jkapture Studios in San Jose, CA - Yelp",
+            "htmlTitle": "Best <b>Things</b> to <b>Do</b> near Jkapture Studios in <b>San Jose</b>, CA - Yelp",
+            "link": "https://www.yelp.com/search?find_desc=Things+to+Do&find_near=jkapture-studios-san-jose-4",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Things to Do - Immersive Gamebox - Valley Fair, San Jose, Japanese Friendship Garden, Japantown San Jose, Water Lantern Festival, AxeVentures Axe ...",
+            "htmlSnippet": "Reviews on <b>Things</b> to <b>Do</b> - Immersive Gamebox - Valley Fair, <b>San Jose</b>, Japanese Friendship Garden, Japantown <b>San Jose</b>, Water Lantern Festival, AxeVentures Axe&nbsp;...",
+            "cacheId": "y4vvFtNK81wJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Things+to+Do...san-jose-4",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=<b>Things</b>+to+<b>Do</b>...<b>san</b>-<b>jose</b>-4",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Things+to+Do&find_near=jkapture-studios-san-jose-4&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Best Things to Do near Vishwananda Sharma JI in San Jose, CA ...",
+            "htmlTitle": "Best <b>Things</b> to <b>Do</b> near Vishwananda Sharma JI in <b>San Jose</b>, CA ...",
+            "link": "https://www.yelp.com/search?find_desc=Things+to+Do&find_near=vishwananda-sharma-ji-san-jose",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Things to Do near Vishwananda Sharma JI - Immersive Gamebox - Valley Fair, San Jose, AxeVentures Axe Throwing, Japantown San Jose, ...",
+            "htmlSnippet": "Reviews on <b>Things</b> to <b>Do</b> near Vishwananda Sharma JI - Immersive Gamebox - Valley Fair, <b>San Jose</b>, AxeVentures Axe Throwing, Japantown <b>San Jose</b>,&nbsp;...",
+            "cacheId": "vT4-NMmKpM8J",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Things+to+Do...ji-san-jose",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=<b>Things</b>+to+<b>Do</b>...ji-<b>san</b>-<b>jose</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Things+to+Do&find_near=vishwananda-sharma-ji-san-jose&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best Petting Zoo near Downtown, San Jose, CA - July 2023 ...",
+            "htmlTitle": "Top 10 Best Petting Zoo near Downtown, <b>San Jose</b>, CA - July 2023 ...",
+            "link": "https://www.yelp.com/search?find_desc=Petting+Zoo&find_loc=downtown%2C+san+jose%2C+ca",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Petting Zoo in downtown, san jose, ca - Happy Hollow Park & Zoo, El Pony Charro, ... None of those things bother my personally, but might you.",
+            "htmlSnippet": "Reviews on Petting Zoo in downtown, <b>san jose</b>, ca - Happy Hollow Park &amp; Zoo, El Pony Charro, ... None of those <b>things</b> bother my personally, but might you.",
+            "cacheId": "ThM93cntOFcJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Petting+Zoo...san+jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=Petting+Zoo...<b>san</b>+<b>jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Petting+Zoo&find_loc=downtown%2C+san+jose%2C+ca&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best in San Francisco, CA - May 2023 - Yelp",
+            "htmlTitle": "Top 10 Best in <b>San</b> Francisco, CA - May 2023 - Yelp",
+            "link": "https://www.yelp.com/search?find_desc=%E2%9B%85",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on ⛅ in San Francisco, CA - Battery Spencer, JK Brickhouse, Plentea, ... I went with a friend on a partly cloudy and chilly day, but it was nice to ...",
+            "htmlSnippet": "Reviews on ⛅ in <b>San</b> Francisco, CA - Battery Spencer, JK Brickhouse, Plentea, ... I went with a friend on a <b>partly cloudy</b> and chilly <b>day</b>, but it was nice to&nbsp;...",
+            "cacheId": "3CwSnGxDUJkJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=⛅",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=⛅",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://m.yelp.com/search?find_desc=partly+cloudy&find_loc=San+Francisco%2C+CA&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best Sights to See in San Jose, CA - August 2023 - Yelp",
+            "htmlTitle": "Top 10 Best Sights to <b>See</b> in <b>San Jose</b>, CA - August 2023 - Yelp",
+            "link": "https://www.yelp.com/search?find_desc=Sights+To+See&find_loc=San+Jose%2C+CA",
+            "displayLink": "www.yelp.com",
+            "snippet": "All \"Sights To See\" results in San Jose, California. Showing 1-60 of 1043 ... \"Can't believe that I had never been here before New Years day!",
+            "htmlSnippet": "All &quot;Sights To <b>See</b>&quot; results in <b>San Jose</b>, California. Showing 1-60 of 1043 ... &quot;Can&#39;t believe that I had never been here before New Years <b>day</b>!",
+            "cacheId": "0sfA4VWknVIJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Sights+To...San+Jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=Sights+To...<b>San</b>+<b>Jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Sights+To+See&find_loc=San+Jose%2C+CA&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "THE BEST 10 Kids Activities near Silver Creek Rd, San Jose, CA ...",
+            "htmlTitle": "THE BEST 10 Kids <b>Activities</b> near Silver Creek Rd, <b>San Jose</b>, CA ...",
+            "link": "https://www.yelp.com/search?find_loc=Silver+Creek+Road%2C+San+Jose%2C+CA&cflt=kids_activities",
+            "displayLink": "www.yelp.com",
+            "snippet": "Best Kids Activities in San Jose, CA - Luv 2 Play San Jose, Slime Kitchen, Happy Hollow Park & Zoo, Children's Discovery Museum, Jurassic Quest, ...",
+            "htmlSnippet": "Best Kids <b>Activities</b> in <b>San Jose</b>, CA - Luv 2 Play <b>San Jose</b>, Slime Kitchen, Happy Hollow Park &amp; Zoo, Children&#39;s Discovery Museum, Jurassic Quest,&nbsp;...",
+            "cacheId": "Ai7kXnd_0XQJ",
+            "formattedUrl": "https://www.yelp.com/search?find_loc=Silver...San+Jose%2C+CA...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_loc=Silver...<b>San</b>+<b>Jose</b>%2C+CA...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?cflt=kids_activities&find_loc=Silver+Creek+Road%2C+San+Jose%2C+CA&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TOP 10 BEST PARKS near Willow Glen, San Jose, CA - June 2023 ...",
+            "htmlTitle": "TOP 10 BEST PARKS near Willow Glen, <b>San Jose</b>, CA - June 2023 ...",
+            "link": "https://www.yelp.com/search?find_desc=Parks&find_loc=Willow+Glen%2C+San+Jose%2C+CA",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Parks in Willow Glen, San Jose, CA - Willow Street Frank Bramhall Park, Doerr Park, ... Not only is it big, but there are so many things to do…",
+            "htmlSnippet": "Reviews on Parks in Willow Glen, <b>San Jose</b>, CA - Willow Street Frank Bramhall Park, Doerr Park, ... Not only is it big, but there are so many <b>things</b> to <b>do</b>…",
+            "cacheId": "FnVt5wiCIqgJ",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Parks&find...San+Jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=Parks&amp;find...<b>San</b>+<b>Jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Parks&find_loc=Willow+Glen%2C+San+Jose%2C+CA&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best Things to Do With Teenagers near Alum Rock/East ...",
+            "htmlTitle": "Top 10 Best <b>Things</b> to <b>Do</b> With Teenagers near Alum Rock/East ...",
+            "link": "https://www.yelp.com/search?find_desc=things+to+do+with+teenagers&find_loc=Alum+Rock%2FEast+Foothills%2C+San+Jose%2C+CA",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Things to Do With Teenagers in Alum Rock/East Foothills, San Jose, CA - Omescape - San Jose, Breakout Studios, San Jose Obon Odori, ...",
+            "htmlSnippet": "Reviews on <b>Things</b> to <b>Do</b> With Teenagers in Alum Rock/East Foothills, <b>San Jose</b>, CA - Omescape - <b>San Jose</b>, Breakout Studios, <b>San Jose</b> Obon Odori,&nbsp;...",
+            "cacheId": "wRhM8t9dqG4J",
+            "formattedUrl": "https://www.yelp.com/search?find...things+to+do...San+Jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find...<b>things</b>+to+<b>do</b>...<b>San</b>+<b>Jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=things+to+do+with+teenagers&find_loc=Alum+Rock%2FEast+Foothills%2C+San+Jose%2C+CA&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Best Festivals near East San Jose, San Jose, CA - July 2023 ...",
+            "htmlTitle": "Top 10 Best Festivals near East <b>San Jose</b>, <b>San Jose</b>, CA - July 2023 ...",
+            "link": "https://www.yelp.com/search?find_desc=Festivals&find_loc=east+san+jose%2C+san+jose%2C+ca",
+            "displayLink": "www.yelp.com",
+            "snippet": "Reviews on Festivals in east san jose, san jose, ca - Water Lantern Festival, Boba Festival, Japantown San Jose, Santa Clara County Fairgrounds, ...",
+            "htmlSnippet": "Reviews on Festivals in east <b>san jose</b>, <b>san jose</b>, ca - Water Lantern Festival, Boba Festival, Japantown <b>San Jose</b>, Santa Clara County Fairgrounds,&nbsp;...",
+            "cacheId": "ynBpmaPznJ8J",
+            "formattedUrl": "https://www.yelp.com/search?find_desc...san+jose%2C+san+jose%2C...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc...<b>san</b>+<b>jose</b>%2C+<b>san</b>+<b>jose</b>%2C...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqk3GrDehkhyx8aEh77E2_7WWiT48Jy6gvLVCsR6g8UxxDU0D1kwqye_RV",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "viewport": "initial-scale=1",
+                        "og:image:height": "1080",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Festivals&find_loc=east+san+jose%2C+san+jose%2C+ca&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "al:ios:app_store_id": "284910350",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/public/yelp_og_image.yji-c14b28215075e232a03e.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
